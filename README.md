@@ -1,10 +1,28 @@
 # Java Swing Calculator
-A simple GUI calculator built in Java using Swing. Performs basic arithmetic operations like addition, subtraction, multiplication, and division.
+
+A simple and elegant *GUI Calculator* built using *Java Swing*.  
+This app performs basic arithmetic operations such as *addition, subtraction, multiplication, and division* with a professional interface.
+
+---
 
 # Features
-- Add, subtract, multiply, divide
-- Clear button to reset
-- User-friendly interface
+
+- Addition  
+- Subtraction  
+- Multiplication  
+- Division  
+- Clear button to reset  
+- Simple and professional UI design  
+
+---
+
+# Tech Stack
+
+- *Language:* Java  
+- *GUI Library:* Swing  
+- *IDE:* IntelliJ IDEA  
+
+---
 
 # Screenshot
 <img width="558" height="729" alt="image" src="https://github.com/user-attachments/assets/700fba3a-ee0a-4eb1-8397-a62fcb1715a3" />
