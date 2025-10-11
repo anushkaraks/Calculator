@@ -12,7 +12,6 @@ This app performs basic arithmetic operations such as *addition, subtraction, mu
 - Multiplication  
 - Division  
 - Clear button to reset  
-- Simple and professional UI design  
 
 ---
 
